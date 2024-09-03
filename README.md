@@ -1,6 +1,6 @@
 # Simple To-Do List
 
-[Visit the Website](https://mahfuzrahman99.github.io/Intro-to-dom)
+[Visit the Website](https://mahfuzrahman99.github.io/Intro-to-dom){:target="_blank" rel="noopener noreferrer"}
 
 ## Key Features
 
@@ -13,3 +13,4 @@
 4. **Responsive Design**: The application is designed to work well on different devices, ensuring a good user experience on both mobile and desktop screens.
 
 5. **Auto-Scroll for Overflow**: If the number of tasks exceeds the container's height, a scrollbar will appear to allow easy navigation through the list.
+
