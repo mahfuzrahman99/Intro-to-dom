@@ -1,6 +1,6 @@
 # Simple To-Do List
 
-[Visit the Website](https://mahfuzrahman99.github.io/Intro-to-dom){:target="_blank" rel="noopener noreferrer"}
+<a href="https://mahfuzrahman99.github.io/Intro-to-dom" target="_blank" rel="noopener noreferrer">Visit the Website</a>
 
 ## Key Features
 
